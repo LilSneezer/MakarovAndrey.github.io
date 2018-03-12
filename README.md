@@ -11,4 +11,4 @@
 <li><a href="https://github.com/LilSneezer">Личная страница</a><br>
 <li><a href="https://github.com/LilSneezer/MakarovAndrey.github.io">Личный репозиторий</a><br>
 <li><a href="https://github.com/LilSneezer/MakarovAndrey.github.io/wiki">WiKi</a><br>
-<li><a href="https://github.com/LilSneezer/MakarovAndrey.github.io/index.html">index</a></ol><br>
+<li><a href="https://MakarovAndrey.github.io ">index</a></ol><br>
